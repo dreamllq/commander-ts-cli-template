@@ -1,8 +1,3 @@
-// const path = require('path');
-// const fs = require('fs');
-// const { Command } = require('commander');
-// const pkg = require('../package.json');
-
 import path from 'path';
 import fs from 'fs';
 import { Command } from 'commander';
